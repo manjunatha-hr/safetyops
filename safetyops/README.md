@@ -1,12 +1,12 @@
-# SafeSphere SMS
+# SafetyOps
 
-SafeSphere SMS is a portfolio-grade Safety Management System platform for small and mid-sized organizations. It is inspired by corporate SMS practices used in safety-critical industries, with a focused MVP around reporting, risk scoring, corrective actions, audit trails, and dashboard analytics.
+SafetyOps is a portfolio-grade Safety Management System platform for small and mid-sized organizations. It is inspired by corporate SMS practices used in safety-critical industries, with a focused MVP around reporting, risk scoring, corrective actions, audit trails, and dashboard analytics.
 
 The first version is intentionally scoped as a polished vertical slice that can be completed quickly while still demonstrating enterprise-grade full-stack engineering.
 
 ## Product Vision
 
-SafeSphere helps organizations move from reactive incident handling to proactive safety risk management.
+SafetyOps helps organizations move from reactive incident handling to proactive safety risk management.
 
 Core capabilities:
 
@@ -96,7 +96,7 @@ Future AI/Integration:
 ## Repository Structure
 
 ```text
-safe-sphere-sms/
+safetyops/
   backend/
     src/
     tests/
@@ -128,4 +128,3 @@ The MVP is considered complete when a user can:
 Suggested resume description:
 
 Built a multi-tenant Safety Management System using React, TypeScript, .NET Web API, PostgreSQL, JWT authentication, permission-based authorization, EF Core, CQRS, Docker, and audit logging. Implemented safety reporting, risk scoring, CAPA workflow, dashboard analytics, and tenant-isolated data access.
-
