@@ -2,7 +2,7 @@
 
 ## Product Summary
 
-SafeSphere SMS is a multi-tenant Safety Management System for organizations that need a structured way to report safety events, assess risk, track corrective actions, and maintain an auditable record of safety decisions.
+SafetyOps is a multi-tenant Safety Management System for organizations that need a structured way to report safety events, assess risk, track corrective actions, and maintain an auditable record of safety decisions.
 
 The product is SMS-inspired, not a certified compliance product.
 
@@ -10,7 +10,7 @@ The product is SMS-inspired, not a certified compliance product.
 
 Small organizations often track safety issues through email, spreadsheets, and disconnected documents. This causes weak visibility, inconsistent risk assessment, missed corrective actions, and poor auditability.
 
-SafeSphere provides one workflow-driven system for safety reports, risk classification, corrective actions, and management visibility.
+SafetyOps provides one workflow-driven system for safety reports, risk classification, corrective actions, and management visibility.
 
 ## MVP Users
 
@@ -211,4 +211,3 @@ Phase 4:
 - SOP and policy knowledge base.
 - MCP integrations.
 - Advanced observability.
-

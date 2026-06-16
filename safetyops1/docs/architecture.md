@@ -2,7 +2,7 @@
 
 ## Architecture Goals
 
-SafeSphere SMS should feel like a real enterprise application, even in MVP form.
+SafetyOps should feel like a real enterprise application, even in MVP form.
 
 Primary goals:
 
@@ -36,13 +36,13 @@ The backend should follow Clean Architecture.
 ```text
 backend/
   src/
-    SafeSphere.Api/
-    SafeSphere.Application/
-    SafeSphere.Domain/
-    SafeSphere.Infrastructure/
+    SafetyOps.Api/
+    SafetyOps.Application/
+    SafetyOps.Domain/
+    SafetyOps.Infrastructure/
   tests/
-    SafeSphere.Application.Tests/
-    SafeSphere.Api.Tests/
+    SafetyOps.Application.Tests/
+    SafetyOps.Api.Tests/
 ```
 
 ### Domain Layer
@@ -344,4 +344,3 @@ Possible MCP tools:
 - Fetch document metadata from approved storage.
 
 The first version should document MCP as a planned integration, not implement it.
-

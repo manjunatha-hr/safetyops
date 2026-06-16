@@ -1,15 +1,15 @@
-# SafeSphere Backend
+# SafetyOps Backend
 
 The backend will be a .NET Web API organized with Clean Architecture.
 
 Planned projects:
 
-- SafeSphere.Api
-- SafeSphere.Application
-- SafeSphere.Domain
-- SafeSphere.Infrastructure
-- SafeSphere.Application.Tests
-- SafeSphere.Api.Tests
+- SafetyOps.Api
+- SafetyOps.Application
+- SafetyOps.Domain
+- SafetyOps.Infrastructure
+- SafetyOps.Application.Tests
+- SafetyOps.Api.Tests
 
 Primary backend responsibilities:
 
@@ -20,4 +20,3 @@ Primary backend responsibilities:
 - CAPA workflow.
 - Audit trail.
 - Dashboard summary APIs.
-

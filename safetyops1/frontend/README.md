@@ -1,4 +1,4 @@
-# SafeSphere Frontend
+# SafetyOps Frontend
 
 The frontend will be a React + TypeScript single-page application.
 
@@ -11,4 +11,3 @@ Primary frontend responsibilities:
 - CAPA tracking screens.
 - Audit timeline UI.
 - Permission-aware navigation and actions.
-
